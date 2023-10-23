@@ -1,3 +1,3 @@
 function findshort(words)
-    return minimum(length.(split(words)))
+    return minimum(length, split(words))
 end
