@@ -1,3 +1,4 @@
+# julia v1.5
 module JohnMeeting
     export meeting
 
