@@ -1,4 +1,4 @@
-# julia 1.5
+# julia v1.5
 function tocamelcase(s::AbstractString)
     words = split(s, r"[_-]")
     if isempty(words)
