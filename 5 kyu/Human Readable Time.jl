@@ -1,4 +1,4 @@
-# julia 1.5
+# julia v1.5
 using Printf
 
 function humanreadable(seconds)
