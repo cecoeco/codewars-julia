@@ -1,4 +1,4 @@
-# julia 1.5
+# julia v1.5
 function sumofintervals(a)
     # Sort intervals by their start points
     sorted_intervals = sort(a, by=x->x[1])
