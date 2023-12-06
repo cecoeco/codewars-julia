@@ -1,3 +1,4 @@
+# Julia v1.5
 function how_much_i_love_you(nbpetals)
     if nbpetals % 6 == 1
         return "I love you"

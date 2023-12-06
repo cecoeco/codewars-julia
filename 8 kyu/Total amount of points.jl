@@ -1,3 +1,4 @@
+# Julia v1.5
 function points(games)
     total_points = 0
     for game in games

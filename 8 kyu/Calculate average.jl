@@ -1,3 +1,4 @@
+# Julia v1.5
 function find_average(arr)
     if length(arr) == 0
         return 0

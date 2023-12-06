@@ -1,3 +1,4 @@
+# Julia v1.5
 function isvow(array)
     vowels = Dict(97=>'a', 101=>'e', 105=>'i', 111=>'o', 117=>'u')
     result = []

@@ -1,3 +1,4 @@
+# Julia v1.5
 function getmiddle(word::AbstractString)
      n = length(word)
     if n % 2 == 0

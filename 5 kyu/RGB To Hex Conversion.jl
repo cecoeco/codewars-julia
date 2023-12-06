@@ -1,4 +1,4 @@
-# julia v1.5
+# Julia v1.5
 module Solution
     export rgb
 

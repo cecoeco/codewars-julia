@@ -1,3 +1,4 @@
+# Julia v1.5
 function count_positives_sum_negatives(input)
     if isempty(input) || input === nothing
         return []

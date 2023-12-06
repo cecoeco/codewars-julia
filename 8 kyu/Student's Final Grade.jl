@@ -1,3 +1,5 @@
+# Julia v1.5
+function finalgrade(exam, projects)
     if exam > 90 || projects > 10
         return 100
     elseif exam > 75 && projects >= 5

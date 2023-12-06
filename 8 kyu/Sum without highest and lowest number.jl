@@ -1,3 +1,4 @@
+# Julia v1.5
 function sumarray(arr)
     if arr == nothing || length(arr) <= 1
         return 0
